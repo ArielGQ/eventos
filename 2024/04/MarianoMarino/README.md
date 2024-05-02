@@ -6,4 +6,4 @@ Estamos emocionados de presentar a **Mariano Marino**, un experimentado Programa
 
 ¿Te gustaría saber cómo llevar a cabo una investigación en un dispositivo que tengas y no morir en el intento? En esta charla aplicaremos método científico para analizar los circuitos integrados de la marca NXP, líder en la industria de NFC, con el fin de conseguir las claves de autenticación utilizadas para acceder a los sectores protegidos de un tag NFC.
 
-![flayer publicitario](MarianoMarino.png)
+![flayer publicitario](MarianoMarino.jpg)

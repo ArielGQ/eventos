@@ -4,4 +4,4 @@ Nos complace presentar a **Adrián Velázquez**, Business Applications Consultan
 
 Adrián nos llevará en un recorrido por las funcionalidades y herramientas que ofrece Microsoft Fabric, desde la ingesta de datos y creación de repositorios hasta las transformaciones y visualizaciones de datos.
 
-![flayer publicitario](AdrianVelazquez.png)
+![flayer publicitario](AdrianVelazquez.jpg)
