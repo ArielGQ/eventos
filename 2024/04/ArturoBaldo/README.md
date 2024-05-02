@@ -6,4 +6,4 @@ Prepárense para una charla que todos hemos necesitado alguna vez en nuestra vid
 
 Pero eso no es todo, también aprenderemos cómo transformar nuestro tiempo y esfuerzo en ganancias $$$. 
 
-![flayer publicitario](ArturoBaldo.jpg)
+<img src="ArturoBaldo.jpeg" alt="ArturoBaldo" />

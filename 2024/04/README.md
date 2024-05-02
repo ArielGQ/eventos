@@ -16,8 +16,12 @@ Les traemos un evento imperdible para todos los apasionados de la tecnología y 
 
 No se pierdan esta oportunidad única de aprender, conectar con otros profesionales y sumergirse en las últimas tendencias y desarrollos tecnológicos.
 
-![flayer publicitario](presentacion.jpeg)
+<img src="presentacionCharlasVarMdz.jpeg" alt="presentacion" />
 
-| ![sponsor_IP_Architechs ](sponsor_IP_Architechs.jpeg) | ![sponsor_lila_software ](sponsor_lila_software.jpeg) |
+| <img src="sponsor_IP_Architechs.jpeg" alt="sponsor_IP_Architechs" /> | <img src="sponsor_Wiber_Internet.jpeg" alt="sponsor_Wiber_Internet" /> |
 |--------------------------|--------------------------|
-| ![sponsor_Possumus ](sponsor_Possumus.jpeg) | ![sponsor_Wiber_Internet ](sponsor_Wiber_Internet.jpeg) |
+| <img src="sponsor_lila_software.jpeg" alt="sponsor_lila_software" /> | <img src="sponsor_Possumus.jpeg" alt="sponsor_Possumus" /> |
+
+
+
+
