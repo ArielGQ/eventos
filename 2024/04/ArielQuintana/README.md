@@ -4,3 +4,5 @@ Nos entusiasma presentar a **Ariel Quintana**, un intrépido Sysadmin & DevOps q
 
 
 <img src="ArielQuintana.jpeg" alt="ArielQuintana" />
+
+![Presentacion](ArielQuintana_Recon_fuzz_y_acceso_no_autorizado_con_reverse_shell_+_escalar_privilegios.pdf)
